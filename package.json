@@ -2,6 +2,7 @@
   "name": "p2d-test",
   "private": true,
   "scripts": {
+	  "install": "asdfasdf",
     "start": "meteor run",
     "test": "meteor test --once --driver-package meteortesting:mocha",
     "test-app": "TEST_WATCH=1 meteor test --full-app --driver-package meteortesting:mocha",
